@@ -6,6 +6,10 @@ order: 1
 
 ## About
 
+<link rel="stylesheet" href="{{ '/assets/css/about-stats.css' | relative_url }}">
+{% include about-stats.html %}
+
+
 Mario Esteban Suaza Medina is an Industrial Engineer with graduate training in Industrial Engineering, Digital Business, Applied Statistics (in progress), and a Ph.D. in Systems and Computer Engineering.
 
 He works in data science, machine learning, time series analysis, and decision-support systems for industry and research.
@@ -37,3 +41,4 @@ Python, R, SQL, Power BI, Tableau, TensorFlow, Keras, Docker, Databricks, Azure,
 
 - Email: mestebansuaza@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mariosuaza
+
