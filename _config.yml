@@ -16,7 +16,7 @@ timezone:
 
 title: Mario Esteban Suaza # the main title
 
-tagline: My personal blog # it will display as the subtitle
+tagline: PhD | Industrial Engineer | Machine Learning Enthusiast | Data Science Enthusiast | Data Analyst # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   blog, mario suaza, github
@@ -29,17 +29,16 @@ github:
   username: MarioSuaza # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username:
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Mario Esteban Suaza
-  email: example@domain.com # change to your email address
+  email: mestebansuaza@gmail.com
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/MarioSuaza # change to your Twitter homepage
     - https://github.com/MarioSuaza # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/MarioSuaza
