@@ -2,7 +2,7 @@
 layout: page
 title: Services
 icon: fas fa-briefcase
-order: 3
+order: 5
 permalink: /services/
 ---
 
