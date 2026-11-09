@@ -24,7 +24,7 @@ I work in data science, machine learning, time series analysis, and decision-sup
 
 ## Experience Highlights
 
-- **Assistant Professor (Profesor Ayudante Doctor), Universidad de Zaragoza (current):** university teaching in statistics, computer science, and information systems across Mathematics, Chemistry, Geology, and Marketing degrees; research in machine learning and geospatial data; and supervision of final degree projects (TFG)
+- **Assistant Professor (Profesor Ayudante Doctor), Universidad de Zaragoza:** university teaching in statistics, computer science, and information systems across Mathematics, Chemistry, Geology, and Marketing degrees; research in machine learning and geospatial data; and supervision of final degree projects (TFG)
 - **Senior Researcher, Universidad de Zaragoza:** research in agriculture and satellite imagery, with time series analysis and machine learning models applied to real organizations, including a web application for price prediction in the Spanish market
 - **Data Scientist, PepsiCo, Latin America:** demand, cannibalization, and innovation models for the region, KPI monitoring dashboards, and AI-driven decision systems integrating sales, operations, and supply data
 - **Data Scientist, iFood:** demand prediction, anomaly detection, recommendation systems, and automated ML pipelines
